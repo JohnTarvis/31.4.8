@@ -1,0 +1,22 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "makes funny re-writes",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnTarvis/31.4.8.git"
+  },
+  "author": "john saville",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnTarvis/31.4.8/issues"
+  },
+  "homepage": "https://github.com/JohnTarvis/31.4.8#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
